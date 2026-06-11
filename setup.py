@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="pylogx",
+    name="pylogxo",
     version="1.0.3",
     description="Extended logging utilities with color, rotation, and JSON output",
     long_description=open("README.md", encoding="utf-8").read(),
