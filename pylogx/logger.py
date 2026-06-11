@@ -1,7 +1,6 @@
 import logging
 import sys
 from typing import Optional
-from .formatter import ColorFormatter
 
 class Logger:
     """Main logger class with convenience methods."""
